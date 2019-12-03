@@ -1,0 +1,5 @@
+#ignore IDE things
+.idea
+__pycache__
+#Ignore test files
+Textual_Data.txt
